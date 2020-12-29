@@ -1,0 +1,13 @@
+__init__ is a keyword variable - has to be named __init__
+
+magic method -> calls itself upon instance creation
+
+The SELF keyword is the first appearance of the instance
+
+the __init__ magic method offers an opportunity to initialize attributes 
+at the time of construction
+
+
+
+
+

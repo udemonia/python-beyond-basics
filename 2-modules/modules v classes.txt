@@ -1,0 +1,7 @@
+modules are files that contain python code 
+
+can be exported or imported
+
+modules can contain class definitions
+
+sometimes a module consists of a single class - in this case a module may seem synonymous w/ a class but isn't

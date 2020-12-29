@@ -1,0 +1,40 @@
+OOP makes life easier 
+
+apparently it allows for easier maintenance of coding
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+
+
+
+Everything in python is an object
+
+But... what does that mean?
+
+Well, other languages use things such as primitives - (not an object)
+
+primitives are objects in python
+
+an object is an entity that holds data, is of a class and is associated with functionality (methods)
+
+## Conclusion
+Everything is an object -> even numbers 🏛
+Other languages use primitives - non class data
+All entities in python follow the same set of rules as objects
+    Every object in python (instance of a class) 
+    The object or class has attributes, some of which are methods
+Python uniform design makes it easier to use/extend
+
+Avoid special use cases - allowing for general purpose use! No special tricks for a small group of power users
+
+
+an object knows from what class it came
+
+variables defined in the class are available in the instance
+
+a method on an instance passes instance as the first argument to the methods
+Names Self
+
+def honk(self):
+    print('honk')

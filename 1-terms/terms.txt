@@ -1,0 +1,23 @@
+Class - Blueprint for creating objects
+
+Instance - a constructed object from a Class
+
+Type - indicates the class that the object belongs to
+
+Attribute - any object value object.Attribute
+
+Method - a 'Callable Attribute' defined in the class - the verb, function within a class
+
+every method is an Attribute but not every Attribute is a method!
+
+instance, method and Attribute
+
+a car is a class of objet 
+
+the car class is a blueprint for a class - platonic ideal
+
+each instance of a car does the same thing (methods) start() stop() honk()
+
+each car has its own state - Attributes
+
+Each car has a left door but the state of each instance can be different - open, locked etc.

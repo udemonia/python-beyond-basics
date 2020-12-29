@@ -1,0 +1,12 @@
+attributes in the class are available in the instance
+
+instance attributes are available in the instance
+
+when we use the syntax object.attribute we're asking python to look up a value
+
+        1. first in the instance
+        2. second in the class
+
+Method calls also follow this lookup 
+
+When we read an attribute - python first looks at the instance then the class

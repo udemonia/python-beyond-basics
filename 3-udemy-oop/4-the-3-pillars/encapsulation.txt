@@ -1,0 +1,17 @@
+The first of the three pillars
+
+Encapsulation refers to the safe storage of data (as attributes)
+
+Data Should Be Accessed Only Through Instance Attributes
+
+Data Should Be Validated as Correct (according to the requirements set in the class methods)
+
+Data Should Be Safe From Changes By External Processes
+
+---------------Data Created via Setter methods (can do it outside of the method - breaking encapsulation)
+
+-----------------------------Later we will learn to force encapsulation 
+
+---------------Encapsulation in python is a voluntary restriction 
+
+---------------Python does not implement data hiding like other languages
